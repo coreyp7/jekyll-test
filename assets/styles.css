@@ -7,6 +7,7 @@
 
 * {
     justify-content: center;
+    font-family: 'Lato';
 }
 
 body {
@@ -158,4 +159,13 @@ body {
 
 .bottom-buffer {
     margin-bottom: 20px;
+}
+
+h3 {
+    text-align: center;
+}
+
+h4 {
+    text-align: left;
+    font-weight: normal;
 }
