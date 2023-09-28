@@ -1,9 +1,3 @@
-/* Generic/general stuff */
-/* * {
-    box-sizing: border-box;
-    scroll-behavior: smooth;
-    font-family:sans-serif;
-} */
 
 * {
     justify-content: center;
@@ -31,13 +25,13 @@ body {
 
 /* Intro section (picture of me, name, icons, brief introduction) */
 
-
 .intro {
     padding: 0px;
     margin: 0px;
     /* margin-bottom: -110px; */
     /* margin-top: -80px; This is bad but works for now i think. */
     margin-bottom: -35px;
+    margin-top: -60px;
 }
 
 .intro_header_container {
